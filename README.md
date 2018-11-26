@@ -17,6 +17,7 @@ rofi (dmenu replacement)
 i3-gaps
 i3blocks
 terminus font
+compton
 
 
 
